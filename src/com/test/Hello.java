@@ -7,6 +7,7 @@ public class Hello {
 		
 		System.out.println("hello world, Welcome to Java");
 		System.out.println("testing git");
+		System.out.println("made changes in GitBranchTest");
 	}
 
 }
